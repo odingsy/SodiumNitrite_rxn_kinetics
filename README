@@ -1,0 +1,7 @@
+# 220402 results for dA, N6-mdA, dC and N4mdC
+.
+|-- HPLCpeak.R: R code plotting the dN amount along with reaction time. 
+|-- *_HPLCtrace: directory containing the HPLC traces. 
+|-- *_MSspectra: direcotry containing MS spectra. 
+|-- graphs: all the reaction graphs. 
+`-- nitrite_dN_reactions.xlsx: tabulating peak quantification of HPLC traces. 
